@@ -126,3 +126,16 @@ ul {
 .destination:last-child ul li:last-child {
   color: var(--accent-orange);
 }
+
+footer {
+  margin-block: 6.5rem 4.8rem;
+  text-align: center;
+  line-height: 150%;
+  color: var(--text-secondary);
+}
+
+footer img {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+}
